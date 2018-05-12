@@ -1,0 +1,30 @@
+_repo: Habits-Haunts-and-Anecdotes-of-the-Moose-and-Illustrations-from-Life_37151
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37151-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jones, Charles Albert
+    alias: Jones, Burt
+    gutenberg_agent_id: '38680'
+    url: http://www.gutenberg.org/2009/agents/38680
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2011-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37151'
+  lccn: a23000600
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Moose'
+- !lcsh 'Animal behavior'
+- !lcc 'SK'
+title: Habits, Haunts and Anecdotes of the Moose and Illustrations from Life
+url: http://www.gutenberg.org/ebooks/37151
