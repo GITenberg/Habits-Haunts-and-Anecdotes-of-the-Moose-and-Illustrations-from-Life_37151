@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38680'
     url: http://www.gutenberg.org/2009/agents/38680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37151#Habits-Haunts-and-Anecdotes-of-the-Moose-and-Illustrations-from-Life
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
